@@ -1,4 +1,4 @@
-# Face Detection
+# Face Swap
 
 C++ code written using Xcode and OpenCV version 3.4.14-dev.
 
