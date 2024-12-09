@@ -5,6 +5,7 @@ C++ code written using Xcode and OpenCV version 3.4.14-dev.
 Read the comments at the top of each main.cpp file to see what each code does.
 
 Go to "Superimpose Skull" folder and run main.cpp to swap faces in photo.
+In "Faces + Eyes" folder, you may run main.cpp if you just want to detect faces + eyes but do not want to swap faces.
 
 Original photo:
 
