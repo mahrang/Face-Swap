@@ -4,7 +4,7 @@ C++ code written using Xcode and OpenCV version 3.4.14-dev.
 
 Read the comments at the top of each main.cpp file to see what each code does.
 
-Original:
+Original photo:
 
 ![bday](https://github.com/user-attachments/assets/90e3993a-ffae-437c-bab0-fa02d1657222)
 
