@@ -10,12 +10,12 @@ In "Faces + Eyes" folder, you may run main.cpp if you just want to detect faces 
 
 Original photo:
 
-![wicked_cropped](https://github.com/user-attachments/assets/1cc1e85e-35e5-4b58-a30e-305143164a76)
+![monica_matt2](https://github.com/user-attachments/assets/542aed98-e26b-452b-905d-3dfb1fd35b7b)
 
 Faces detected:
 
-![faces_in_wicked](https://github.com/user-attachments/assets/45a49228-e264-4e9c-a790-0e27e3b57bc8)
+![faces_in_monica_matt2](https://github.com/user-attachments/assets/85d5c064-8bfa-4062-9c31-7972919dcadd)
 
 Faces replaced with skulls:
 
-![skulls_in_wicked](https://github.com/user-attachments/assets/38d1d1a8-7796-4bd3-9a15-696190c77509)
+![skulls_in_monica_matt2](https://github.com/user-attachments/assets/c58fcaab-c7bb-47e9-9b34-5dd10d702776)
